@@ -1,0 +1,19 @@
+.testimonial__card {
+  width: 350px;
+  text-align: center;
+  gap: 5px;
+  background-color: white;
+  padding: 1vmax;
+  border-radius: 12px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  flex-direction: column;
+
+  .userIMg {
+    border-radius: 50%;
+  }
+
+  img {
+    width: 45px;
+    height: 45px;
+  }
+}
